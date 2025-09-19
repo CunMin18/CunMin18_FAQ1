@@ -1,0 +1,35 @@
+{
+  "schemaVersion": 1,
+  "id": "cunmin18_faq1",
+  "version": "${version}",
+  "name": "CunMin18_FAQ1",
+  "description": "第一次读评论",
+  "authors": ["CunMin18"],
+  "contact": {},
+  "license": "CC BY-NC 4.0",
+  "icon": "assets/cunmin18_faq1/icon.png",
+  "environment": "*",
+  "entrypoints": {
+    "fabric-datagen": [
+      "org.cunmin18.cunmin18_faq1.client.Cunmin18_faq1DataGenerator"
+    ],
+    "client": [
+      "org.cunmin18.cunmin18_faq1.client.Cunmin18_faq1Client"
+    ],
+    "main": [
+      "org.cunmin18.cunmin18_faq1.Cunmin18_faq1"
+    ]
+  },
+  "mixins": [
+    "cunmin18_faq1.mixins.json",
+    {
+      "config": "cunmin18_faq1.client.mixins.json",
+      "environment": "client"
+    }
+  ],
+  "depends": {
+    "fabricloader": ">=${loader_version}",
+    "fabric": "*",
+    "minecraft": "${minecraft_version}"
+  }
+}

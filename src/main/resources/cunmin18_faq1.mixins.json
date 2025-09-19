@@ -1,0 +1,25 @@
+{
+  "required": true,
+  "minVersion": "0.8",
+  "package": "org.cunmin18.cunmin18_faq1.mixins",
+  "compatibilityLevel": "JAVA_17",
+  "mixins": [
+    "block.BlockMixin",
+    "entity.EntityMixin",
+    "entity.LivingEntityMixin",
+    "entity.MerchantEntityMixin",
+    "entity.MobEntityMixin",
+    "entity.IronGolemEntityMixin",
+    "entity.VillagerEntityMixin",
+    "status_effect.StatusEffectInstanceMixin",
+    "task.VillagerBreedTaskMixin",
+    "task.VillagerTaskListProviderMixin",
+    "task.FarmerVillagerTaskMixin"
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  },
+  "overwrites": {
+    "requireAnnotations": true
+  }
+}

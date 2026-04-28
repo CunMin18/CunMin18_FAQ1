@@ -2,9 +2,9 @@
 这是村民拾八视频里的MC模组，您可以在Modrinth下载到它 | [前往下载](https://modrinth.com/project/cunmin18_faq1)  
 This is a mod in CunMin18's video, you can download it at Modrinth | [Download](https://modrinth.com/project/cunmin18_faq1)  
 
-<img width="400" height="213" alt="image (2)" src="https://github.com/user-attachments/assets/6df61c35-f3eb-4f9a-a4e7-e82543acc1cd" />  
-<img width="400" height="209" alt="image (1)" src="https://github.com/user-attachments/assets/5b1a5a7b-6f70-45fe-b1e3-e3b8ffcec8c5" />  
-<img width="400" height="261" alt="image" src="https://github.com/user-attachments/assets/881036e3-9d84-472c-b95d-7fc9b206b173" />  
+<img width="100%" src="https://github.com/user-attachments/assets/569f9097-7bfc-411f-9693-8faf0b062296" />  
+<img width="100%" src="https://github.com/user-attachments/assets/2f3b8f57-8ee7-4e60-aaa2-b080d763be9c" />  
+<img width="100%" src="https://github.com/user-attachments/assets/14ff2392-81f0-4cf9-9ebd-807c10de2d1f" />  
 
 
 # 中文简介  
